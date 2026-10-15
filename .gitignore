@@ -1,0 +1,15 @@
+# Python virtual environment (uv recreates it with `uv sync`)
+.venv/
+
+# Rendered videos, images and LaTeX cache (rebuilt every time you render)
+media/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Editor / OS clutter
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
